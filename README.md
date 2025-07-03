@@ -4,7 +4,6 @@ Hi I’m Melpomeni!
 🎓Final-year Integrated Marketing & Communication student at Cyprus University of Technology<br>
 📊🧠💼📈🔍>🎥📸✨🎨📲 type of girlie<br>
 Currently expanding digital skills & trying to survive till I get my degree☕<br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melpo2004&theme=neon&show_icons=true)
 
 # 💻 Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -14,8 +13,7 @@ Currently expanding digital skills & trying to survive till I get my degree☕<b
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=melpo2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=melpo2004&theme=dark&hide_border=false)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melpo2004&theme=neon&show_icons=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=melpo2004&theme=neon&no-frame=false&no-bg=true&margin-w=4)
